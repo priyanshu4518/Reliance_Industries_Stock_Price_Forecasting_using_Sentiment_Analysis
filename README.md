@@ -76,7 +76,14 @@ Since future sentiment data is unavailable beyond `2025-03-03`, an **LSTM** mode
 
 The model demonstrated strong performance with minimal prediction error, showcasing the effectiveness of integrating sentiment analysis with stock price forecasting.
 
----
+--- 
+
+## 📹Video Demo
+
+- **[Click here to watch the demo video](https://drive.google.com/file/d/17eRfHadpHCOLz0GtXHlYiB8AIyqEtCe_/view?usp=sharing)** 
+
+--- 
+
 
 ## 🖥️ App Deployment
 
